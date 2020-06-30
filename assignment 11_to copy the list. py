@@ -1,0 +1,3 @@
+lista=["naira","naksh","kairav","keerthi"]
+listb=lista.copy()
+print(listb)

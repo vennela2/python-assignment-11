@@ -1,0 +1,4 @@
+lista=["sunny","bunny","nani"]
+listb=list(lista)
+print(lista)
+print(listb)
